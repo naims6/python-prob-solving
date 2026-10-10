@@ -131,9 +131,9 @@
 # Concept: Loops, conditions, and logical operators
 
 for i in range(30):
-    if(i % 5 == 0 and i % 3 == 0):
+    if i % 5 == 0 and i % 3 == 0:
         print(f"This {i} is FizzBuzz")
-    elif(i % 3 == 0):
+    elif i % 3 == 0:
         print(f"This {i} is Fizz")
-    elif(i % 5 == 0):
+    elif i % 5 == 0:
         print(f"This {i} is Buzz")

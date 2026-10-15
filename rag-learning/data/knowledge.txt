@@ -1,0 +1,15 @@
+
+Python is a high-level programming language.
+Python is commonly used for automation, web development, data science, and artificial intelligence.
+
+RAG stands for Retrieval-Augmented Generation.
+RAG retrieves relevant information from external documents and provides that information to a language model before it generates an answer.
+
+Embeddings are numerical vector representations of text.
+Texts with similar meanings can have similar embeddings, depending on the embedding model.
+
+Chunking divides a large document into smaller pieces.
+Chunk size and overlap can affect retrieval quality.
+
+A vector database stores vectors and supports similarity search.
+It helps applications find relevant information without comparing every document manually.

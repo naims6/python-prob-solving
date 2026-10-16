@@ -13,3 +13,6 @@ Chunk size and overlap can affect retrieval quality.
 
 A vector database stores vectors and supports similarity search.
 It helps applications find relevant information without comparing every document manually.
+
+Naim Sorker is a Full Stack Engineer and currently he is learning Ai engineering. And he complete Programing Hero Course From Batch 12.
+Naim is a good student also and he has a youtube channel name Naims Dev.
